@@ -36,12 +36,11 @@ Work experience
 Research Interests
 ======
 * Optimal Control
-* Optimization
 * Reinforcement Learning 
 * Unsupervised Learning 
 * Model Order Reduction
-* Connected and Automated Vehicle
-* Autonomous Driving
+* Connected and Automated Vehicles
+* Autonomous Vehicles
 
 Engineering Tools
 ======
