@@ -11,49 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering, Ohio State University, Columbus, 2016 
+  * Honor: Summa Cum Laude
+* M.S. in Mechanical Engineering, Ohio State University, Columbus, 2018 
+  * Advisor: Prof. Marcello Canova
+  * Thesis: Control-oriented Modeling of Three-Way Catalyst Temperature via Projection-based Model Order Reduction
+* Ph.D in Mechanical Engineering, Ohio State University, Columbus, 2021 (expected)
+  * Advisor: Prof. Marcello Canova
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Advanced Propulsion Control Intern 
+  * Delphi Technologies 
+  * Supervisor: Karim Aggoune 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2020: Research Intern - Control
+  * Motional 
+  * Supervisor: Dr. Zitian Yu
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Summer 2021: Research Intern - Prediction and Behavior Modeling
+  * Motional
+  * Supervisor: Dr. Eric Wolff
   
-Talks
+Research Interests
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* Optimal Control
+* Optimization
+* Reinforcement Learning 
+* Unsupervised Learning 
+* Model Order Reduction
+* Connected and Automated Vehicle
+* Autonomous Driving
+
+Engineering Tools
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Languages: Python, C++, CUDA, Docker, MATLAB/Simulink and Mathematica.
+* Libraries: NumPy, TensorFlow, PyTorch, Matplotlib, acados, pybind11, Git, Conan.
