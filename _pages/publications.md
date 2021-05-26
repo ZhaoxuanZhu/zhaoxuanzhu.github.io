@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 * Journal Paper
-  * Zhu, Zhaoxuan, Nicola Pivaro, Shobhit Gupta, Abhishek Gupta, and Marcello Canova "Safe Model-based Off-policy Reinforcement Learning for Eco-driving in Connected and Automated Hybrid Electric Vehicles." (in preparation).
+  * Zhu, Zhaoxuan, Nicola Pivaro, Shobhit Gupta, Abhishek Gupta, and Marcello Canova "Safe Model-based Off-policy Reinforcement Learning for Eco-driving in Connected and Automated Hybrid Electric Vehicles." arXiv preprint arXiv:2105.11640 (2021). (submitted to IEEE Transactions on Intelligent Vehicles)
   * Zhu, Zhaoxuan, Shobhit Gupta, Abhishek Gupta, and Marcello Canova. "A Deep Reinforcement Learning Framework for Eco-driving in Connected and Automated Hybrid Electric Vehicles." arXiv preprint arXiv:2101.05372 (2021). (submitted to IEEE Transactions on Intelligent Transportation Systems)
   * Zhu, Zhaoxuan, Shawn Midlam-Mohler, and Marcello Canova. "Development of physics-based three-way catalytic converter model for real-time distributed temperature prediction using proper orthogonal decomposition and collocation." International Journal of Engine Research 22, no. 3 (2021): 873-889.
 
